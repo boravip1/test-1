@@ -1,2 +1,7 @@
 ert
 456
+
+
+grafik ekle
+
+3D süper grafikler
