@@ -1,2 +1,4 @@
 ert
 456
+
+network özelliği
